@@ -1,5 +1,5 @@
 ---
-title: "Group 6 UCSB domestic grad enrollment"
+title: "Group 06 UCSB domestic grad enrollment"
 author: "Amber McEldowney, Nick Bissonnette"
 date: "11/25/2020"
 output: html_document
